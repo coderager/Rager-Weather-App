@@ -81,6 +81,14 @@ function yourTime() {
     "Thursday",
     "Friday",
     "Saturday",
+    "Sunday", 
+    "Monday", 
+    "Tuesday", 
+    "Wednesday", 
+    "Thursday", 
+    "Friday", 
+    "Saturday",
+    "Sunday"
   ];
   let day = daysofWeek[today.getDay()];
   let date = today.getDate();
